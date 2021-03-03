@@ -1,4 +1,8 @@
+![images](https://user-images.githubusercontent.com/70727613/109856802-8446e080-7c1f-11eb-8776-52bdabd81af6.jpeg)
+
 # Web-Design-Challenge
+
+![Unknown-1](https://user-images.githubusercontent.com/70727613/109856772-7beea580-7c1f-11eb-8f3b-25054a17de60.jpeg)
 
 ## Latitude - Latitude Analysis Dashboard with Attitude
 
